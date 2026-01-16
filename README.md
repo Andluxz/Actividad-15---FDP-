@@ -1,2 +1,12 @@
-# Actividad-15---FDP-
-Crear un repositorio en GitHub con al menos:  Un archivo README.md con explicación del proyecto.  Un programa en C++ (puede ser alguno previamente realizado).  Uso de al menos dos ramas (main y dev).  Historial de al menos 3 commits por rama
+# Proyecto en C++ - Ejemplo con Git
+
+
+Este proyecto es un programa básico en C++ que demuestra el uso del control de versiones con Git y GitHub.
+
+
+## Funcionalidad
+El programa permite al usuario ingresar dos números y muestra su suma en pantalla.
+
+
+## Autor
+Andy Proaño
